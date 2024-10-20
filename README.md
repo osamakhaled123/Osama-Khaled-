@@ -9,4 +9,4 @@ Also interested in new technologies.
 [![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/osama-khaled-739984218/)
 [![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:osamakhaled132000@gmail.com)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osamakhaled&theme=radical&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osamakhaled123&theme=radical&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
