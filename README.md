@@ -1,16 +1,12 @@
-# Welcome to My GitHub Profile 👋
+# Hi there 👋
 
-Hi there! I'm **[Osama Khaled]**, a Passionate Data Scientist and tech enthusiast. Welcome to my GitHub profile!
+I'm a self learner, science and mathematics geek who's intersered in artificial intelligence in general. 
+Also interested in new technologies.
 
+ ## Find me 🌎
+ 
+[![Facebook](https://img.icons8.com/fluency/48/000000/facebook.png)](https://www.facebook.com/osama.khaled.549/)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/osama-khaled-739984218/)
+[![Gmail](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:osamakhaled132000@gmail.com)
 
-- 📫 How to reach me: [osamakhaled132000@gmail.com].
-
-## My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-
-## Find Me Elsewhere 🌍
-- [LinkedIn](https://www.linkedin.com/in/osama-khaled-739984218/)
-- [Kaggle](https://www.kaggle.com/osamaakhaled)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=osamakhaled&theme=radical&langs_count=6&hide=xslt)](https://github.com/anuraghazra/github-readme-stats)
