@@ -1,7 +1,6 @@
-# Hi there 👋
+# Welcome to My GitHub Profile 👋
 
-I'm a self learner, science and mathematics geek who's intersered in artificial intelligence in general. 
-Also interested in new technologies.
+Hi there! I'm **Osama Khaled**, a passionate Data Scientist and tech enthusiast especially in Artificial Intelligence. Welcome to my GitHub profile!
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osamakhaled123&layout=compact&theme=radical)
